@@ -1,0 +1,11 @@
+# Archivos sensibles
+.ssh/
+.gitconfig
+.lesshst
+.wget-hsts
+
+# Configs locales
+.config/termux/
+
+# Sistema
+.DS_Store
